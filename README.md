@@ -23,7 +23,7 @@ docker compose run php php artisan migrate
 docker compose up
 ```
 ```bash
-https://localhost:8000
+http://localhost:8000
 ```
 ## WITHOUT DOCKER | PHP VERSION 8.2 | mariadb:10.11.7
 ### FIRST SETUP
@@ -43,5 +43,5 @@ php artisan migrate
 php artisan serve
 ```
 ```bash
-https://localhost:8000
+http://localhost:8000
 ```
