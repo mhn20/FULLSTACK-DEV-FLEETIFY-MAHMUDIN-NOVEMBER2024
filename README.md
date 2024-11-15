@@ -39,6 +39,7 @@ composer update
 ```bash
 php artisan migrate
 ```
+### RUN
 ```bash
 php artisan serve
 ```
