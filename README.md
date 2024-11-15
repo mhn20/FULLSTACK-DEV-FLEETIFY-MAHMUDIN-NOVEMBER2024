@@ -37,7 +37,7 @@ cp .env.example .env
 composer update
 ```
 ```bash
-php artisan migrate
+php artisan migrate OR import file project/db_project.sql
 ```
 ### RUN
 ```bash
