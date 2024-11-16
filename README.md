@@ -1,3 +1,7 @@
+## RUN ONLINE
+```bash
+    http://mhn20.alchosting.xyz/
+```
 ## WITH DOCKER
 ### FIRST SETUP
 ```bash 
